@@ -1,0 +1,6 @@
+{
+  "name": "Invigilation Duty Schedule Summer Term 2026",
+  "description": "Official Invigilation Duty Schedule Application for Government College of Engineering Amravati - Summer Term 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
